@@ -1052,9 +1052,9 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "BaiduNavigationForMe.com.----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/macbook/Desktop/百思不姐/百思不姐/ClassCode/Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/macbook/Desktop/百思不得姐GitHub/百思不姐/百思不姐/ClassCode/Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				USER_HEADER_SEARCH_PATHS = "/Users/macbook/Desktop/百思不姐/百思不姐/ClassCode/Header.h";
+				USER_HEADER_SEARCH_PATHS = "/Users/macbook/Desktop/百思不得姐GitHub/百思不姐/百思不姐/ClassCode/Header.h";
 			};
 			name = Debug;
 		};
@@ -1073,8 +1073,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "BaiduNavigationForMe.com.----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/macbook/Desktop/百思不姐/百思不姐/ClassCode/Header.h";
-				USER_HEADER_SEARCH_PATHS = "/Users/macbook/Desktop/百思不姐/百思不姐/ClassCode/Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/macbook/Desktop/百思不得姐GitHub/百思不姐/百思不姐/ClassCode/Header.h";
+				USER_HEADER_SEARCH_PATHS = "/Users/macbook/Desktop/百思不得姐GitHub/百思不姐/百思不姐/ClassCode/Header.h";
 			};
 			name = Release;
 		};
